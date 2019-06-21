@@ -1,0 +1,1 @@
+This folder contains all the PHP and db_connection codes.
