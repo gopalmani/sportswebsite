@@ -1,0 +1,1 @@
+Images used on the website are stored in this folder.
